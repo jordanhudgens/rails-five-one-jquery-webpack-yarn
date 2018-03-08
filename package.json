@@ -7,11 +7,5 @@
   },
   "devDependencies": {
     "webpack-dev-server": "^3.1.0"
-  },
-  "engines": {
-    "yarn": ">= 0.25.2"
-  },
-  "scripts": {
-    "heroku-postbuild": "npm run webpack:deploy"
   }
 }
